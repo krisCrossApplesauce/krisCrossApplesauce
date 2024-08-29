@@ -1,7 +1,13 @@
-## Hi there 👋
+## Hello! I'm Karis and this is my GitHub :D
 
 <!--
 **krisCrossApplesauce/krisCrossApplesauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Things to add:
+- couple of sentences about me
+- list of familiar languages/programs
+- link to LinkedIn
+- link to personal website
 
 Here are some ideas to get you started:
 
